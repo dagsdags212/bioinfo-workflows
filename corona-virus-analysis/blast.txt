@@ -1,0 +1,18 @@
+100.000	29870	NC_045512	Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+82.304	17716	NC_004718	SARS coronavirus Tor2, complete genome
+80.041	5416	NC_004718	SARS coronavirus Tor2, complete genome
+90.055	1629	NC_004718	SARS coronavirus Tor2, complete genome
+79.360	1938	NC_004718	SARS coronavirus Tor2, complete genome
+80.793	17436	NC_014470	Bat coronavirus BM48-31/BGR/2008, complete genome
+75.656	4646	NC_014470	Bat coronavirus BM48-31/BGR/2008, complete genome
+81.538	1625	NC_014470	Bat coronavirus BM48-31/BGR/2008, complete genome
+76.244	1869	NC_014470	Bat coronavirus BM48-31/BGR/2008, complete genome
+72.940	5122	NC_025217	Bat Hp-betacoronavirus/Zhejiang2013, complete genome
+70.558	4232	NC_034440	Bat coronavirus isolate PREDICT/PDF-2180, complete genome
+72.486	1730	NC_006577	Human coronavirus HKU1, complete genome
+73.711	795	NC_048214	Duck coronavirus isolate DK/GD/27/2014, complete genome
+71.698	689	NC_048211	Wencheng Sm shrew coronavirus isolate Xingguo-74 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+78.652	178	NC_048211	Wencheng Sm shrew coronavirus isolate Xingguo-74 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+72.020	604	NC_035191	Wencheng Sm shrew coronavirus isolate Xingguo-101 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+78.652	178	NC_035191	Wencheng Sm shrew coronavirus isolate Xingguo-101 ORF1ab polyprotein, spike glycoprotein, envelope protein, membrane protein, and nucleocapsid protein genes, complete cds
+95.000	40	NC_016991	White-eye coronavirus HKU16, complete genome
